@@ -1,7 +1,7 @@
 // 08. How do you print duplicate characters from a string?
 
 let sentence: string;
-sentence = 'hello there, you look settled. Try this apple.'
+sentence = 'hello there, you look unsettled. Try this apple.'
 const splitSentence = sentence.split("")
 console.log(splitSentence);
 
