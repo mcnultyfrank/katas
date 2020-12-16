@@ -1,2 +1,4 @@
-*.js
+script.js
 *.html
+node_modules
+yarn.lock
