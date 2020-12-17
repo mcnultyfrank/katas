@@ -3,10 +3,12 @@
 const duplicateStringFunction = (sentence: string) => {
     for (let i = 0; i < sentence.length; i++) {
         if(sentence[i] === sentence[i + 1]){
-            return sentence[i] + sentence[i + 1]
+            return (sentence[i] + sentence[i + 1]);
         }
-    }    
+    }  
 }
 duplicateStringFunction('hello there, you look unsettled. Try this apple')
+console.log(duplicateStringFunction('hello there, you look unsettled. Try this apple'));
+
 
 module.exports = duplicateStringFunction;
