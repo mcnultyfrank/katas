@@ -14,6 +14,6 @@ let firstNonRepeatedCharacter = (stringParameter: string) => {
     }    
 }
 
-firstNonRepeatedCharacter('frank');
+firstNonRepeatedCharacter('');
 
 module.exports = firstNonRepeatedCharacter;
