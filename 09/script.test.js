@@ -1,7 +1,7 @@
-const isItAnagramFunction = require('./script.js');
+const isItAnagram = require('./script.js');
 
-test('print duplicate string', () => {
-  expect(isItAnagramFunction('dusty', 'study')).toBe(true);
-  expect(isItAnagramFunction('tar', 'rat')).toBe(true);
-  expect(isItAnagramFunction('dog', 'cat')).toBe(false);
+test('are the two inputted strings anagrams of each other?', () => {
+  expect(isItAnagram('dusty', 'study')).toBe(true);
+  expect(isItAnagram('tar', 'rat')).toBe(true);
+  expect(isItAnagram('dog', 'cat')).toBe(false);
 });
