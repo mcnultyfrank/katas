@@ -3,3 +3,4 @@ script.js
 node_modules
 yarn.lock
 DS_Store
+*.css
