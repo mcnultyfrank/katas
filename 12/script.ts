@@ -1,12 +1,18 @@
 
 // 12. How can a given string be reversed using recursion?
 
+let stringArray: any []; 
+stringArray = [];
+
 const recursionReverse = (stringParameter: string) => {
     for (let i = stringParameter.length - 1; i >= 0; i--) {
-        console.log(stringParameter[i]);
+        stringArray.push(stringParameter[i])
     }
-}
-recursionReverse('The existence of the length property')
+    return stringArray.join('')
+}  
 
-export = {};
+recursionReverse('hello there')
+
+
+module.exports = recursionReverse;
 
