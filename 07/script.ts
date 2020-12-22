@@ -2,6 +2,8 @@
 
 const reverseStringFunction = (sentence: string) => {
     let reversedSentence = sentence.split("").reverse().join("");
+    console.log(reversedSentence);
+    
     return reversedSentence;
 }
 reverseStringFunction('frank')
@@ -9,4 +11,4 @@ reverseStringFunction('frank')
 module.exports = reverseStringFunction;
 
 
-
+ 
