@@ -1,8 +1,10 @@
 # Personal Katas
 
-Adding Parity Bits
-Get the Area of a Country
-What's Hiding Amongst the Crowd?
+01. What's Hiding Amongst the Crowd?
+02. Get the Area of a Country
+03. Adding Parity Bits
+
+
 
 # Nology Katas
 
