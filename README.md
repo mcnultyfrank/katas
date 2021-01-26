@@ -1,4 +1,10 @@
-# katas-nology-post-course
+#Personal Katas
+
+Adding Parity Bits
+Get the Area of a Country
+What's Hiding Amongst the Crowd?
+
+# Nology Katas
 
 01. How do you find the missing numbers in a given integer array?
 02. How do you find the duplicate number on a given integer array?
