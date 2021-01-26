@@ -1,4 +1,4 @@
-#Personal Katas
+# Personal Katas
 
 Adding Parity Bits
 Get the Area of a Country
