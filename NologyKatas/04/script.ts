@@ -1,4 +1,5 @@
-// 02. How do you find the duplicate number on a given integer array?
+
+// 04. How do you remove duplicates from an array in place?
 
 
 let arrayExample: Array<number>;
@@ -8,7 +9,7 @@ let sortedArray = arrayExample.sort((a, b) => a - b);
 
 for (let i = 0; i < sortedArray.length; i++) {
     if (sortedArray[i] === sortedArray[i + 1]){
-        console.log(sortedArray[i], sortedArray[i + 1]);        
+        console.log(sortedArray[i],sortedArray[i + 1]);
     }
     else {
         continue
@@ -17,4 +18,6 @@ for (let i = 0; i < sortedArray.length; i++) {
 
 
 
-export = {}
+
+
+// export = {}
