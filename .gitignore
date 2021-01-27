@@ -1,6 +1,0 @@
-script.js
-*.html
-node_modules
-yarn.lock
-DS_Store
-*.css
