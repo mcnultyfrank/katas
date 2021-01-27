@@ -1,3 +1,11 @@
+# Personal Katas
+
+01. What's Hiding Amongst the Crowd?
+02. Get the Area of a Country
+03. Adding Parity Bits
+04. Convert Age to Days
+
+
 # katas-nology-post-course
 
 01. How do you find the missing numbers in a given integer array?
