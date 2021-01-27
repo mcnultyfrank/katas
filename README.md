@@ -6,7 +6,7 @@
 04. Convert Age to Days
 
 
-# katas-nology-post-course
+# Nology Katas
 
 01. How do you find the missing numbers in a given integer array?
 02. How do you find the duplicate number on a given integer array?
