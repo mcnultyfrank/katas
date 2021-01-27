@@ -6,6 +6,7 @@
 04. Convert Age to Days
 05. Algorithms I: Introduction to Recursion
 06. How Much is True?
+07. Converting Objects to Arrays
 
 # Nology Katas
 
