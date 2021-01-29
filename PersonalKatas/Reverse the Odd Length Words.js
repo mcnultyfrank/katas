@@ -9,7 +9,9 @@
             splitEachWord.length % 2 !== 0 ? splitEachWord.reverse() : null;
             completedString.push(splitEachWord.join(""));
         }
-        return console.log(completedString.join(" ")); 
+        return completedString.join(" ");
     }
 
     reverseOdd("Make sure uoy only esrever sdrow of ddo length")
+
+    module.exports = reverseOdd;

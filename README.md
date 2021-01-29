@@ -7,6 +7,13 @@
 05. Algorithms I: Introduction to Recursion
 06. How Much is True?
 07. Converting Objects to Arrays
+08. Convenience Store
+09. Scrabble Hand
+10. Simon Says
+11. Ping Pong!
+12. Reverse the Odd Length Words
+
+
 
 # Nology Katas
 

@@ -25,7 +25,10 @@
             }
         }
         ones.length%2 == 0 ? splitString.push('0') : splitString.push('1');
-        return console.log(splitString.join(''));
+        console.log(splitString.join(''));
+        return splitString.join('');
     }
 
     addParityBit('0010110');
+
+    module.exports = addParityBit;

@@ -10,11 +10,16 @@
 
 const findWord = (str) => {
     const splitword = str.split('');
+    const returnArray = [];
     for (let i = 0; i < splitword.length; i++) {
         if (splitword[i] !== splitword[i].toUpperCase()){
-            console.log(splitword[i]);
-        }
+            returnArray.push(splitword[i]);
+        }        
     }
-}
+    
+    return returnArray.join("");
 
+}
 findWord('bEEFGBuFBRrHgUHlNFYaYr');
+
+    module.exports = findWord;
