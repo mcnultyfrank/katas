@@ -12,6 +12,7 @@
 10. Simon Says
 11. Ping Pong!
 12. Reverse the Odd Length Words
+13. Numbers in Strings
 
 
 
