@@ -13,6 +13,8 @@
 11. Ping Pong!
 12. Reverse the Odd Length Words
 13. Numbers in Strings
+14. Letters Shared between Two Words
+15. Older Than Me
 
 
 
