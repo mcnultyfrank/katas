@@ -15,6 +15,10 @@
 13. Numbers in Strings
 14. Letters Shared between Two Words
 15. Older Than Me
+16. Burglary Series 01: Calculate Total Losses
+17 Burglary Series 02: Most Valuable Item
+18. Burglary Series 03: Is It Gone?
+
 
 
 
