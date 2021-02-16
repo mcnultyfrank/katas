@@ -8,7 +8,6 @@ const duplicateStringFunction = (sentence: string) => {
     }  
 }
 duplicateStringFunction('hello there, you look unsettled. Try this apple')
-console.log(duplicateStringFunction('hello there, you look unsettled. Try this apple'));
 
 
 module.exports = duplicateStringFunction;

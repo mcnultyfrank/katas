@@ -15,7 +15,6 @@
             }
         }
         ones.length%2 == 0 ? splitString.push('0') : splitString.push('1');
-        console.log(splitString.join(''));
         return splitString.join('');
     }
 
